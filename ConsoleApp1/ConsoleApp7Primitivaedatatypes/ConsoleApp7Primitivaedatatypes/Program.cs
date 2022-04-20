@@ -101,3 +101,8 @@ int age = 40;
 
 Console.WriteLine("Sveiks " + name + "!");
 Console.WriteLine($"Sveiks + { name} sveiciens dzimsanas dienaa tavos {age} gados!");
+
+Console.WriteLine("===================================================");
+
+Console.WriteLine("Ievdi skaitli?");
+
